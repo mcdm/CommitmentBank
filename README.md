@@ -2,7 +2,7 @@
 
 The repository contains the materials related to the paper:
 
-Marie-Catherine de Marneffe, Mandy Simons, and Judith Tonhauser (to appear). The CommitmentBank: Investigating projection in naturally occurring discourse. To appear in the Proceedings of Sinn und Bedeutung 23.
+Marie-Catherine de Marneffe, Mandy Simons, and Judith Tonhauser (2019). The CommitmentBank: Investigating projection in naturally occurring discourse. Proceedings of Sinn und Bedeutung 23.
 
 # Data
 The CommitmentBank is a corpus of 1,200 naturally occurring discourses whose final sentence contains a clause-embedding predicate under an entailment canceling operator (question, modal, negation, antecedent of conditional).
