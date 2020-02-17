@@ -26,3 +26,6 @@ The CommitmentBank is a corpus of 1,200 naturally occurring discourses whose fin
 - Answer/Responses: projection judgments to the prompt, using a 7-point Likert scale (-3/the author is certain that the prompt is false, 0/the author is not certain whether the prompt is true or false, 3/the author is certain that the prompt is true)
 - mean.noTarget: mean of responses to the "plausibility of the content of the complement given context" (see Section 2.6 in the paper)
 - sd.noTarget: standard deviation of responses to the "plausibility of the content of the complement given context" (see Section 2.6 in the paper)
+
+# Code
+<strong>analysis-SuB-paper.R</strong> contains the R code to reproduce the figures and models in the paper. At time of publication, a few items were missing annotation for the tense of the matrix verb. These got fixed in the released data. However running the code on the released data leads to minimal discrepancies from what is reported in the paper wrt tense.
