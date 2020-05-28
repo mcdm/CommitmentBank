@@ -29,3 +29,6 @@ The CommitmentBank is a corpus of 1,200 naturally occurring discourses whose fin
 
 # Code
 <strong>analysis-SuB-paper.R</strong> contains the R code to reproduce the figures and models in the paper. At time of publication, a few items were missing annotation for the tense of the matrix verb. These got fixed in the released data. However running the code on the released data leads to minimal discrepancies from what is reported in the paper wrt tense.
+
+# License
+Creative Commons Attribution-Non-Commercial-ShareAlike 4.0 Internal License
